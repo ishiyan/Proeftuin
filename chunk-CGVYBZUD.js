@@ -1,0 +1,1 @@
+var e=()=>"",o=()=>"transparent",r=()=>"black",p=()=>"white";var n=()=>0,i=t=>t.depth<2?1:t.depth<3?.6:t.depth<4?.3:.1,c=t=>t.depth<2?2:t.depth<3?1:t.depth<4?.5:.1,k=t=>t.depth<2?3:t.depth<3?1.5:t.depth<4?.7:.5,a=t=>t.depth<2?4:t.depth<3?2:t.depth<4?1:.5;export{e as a,o as b,r as c,p as d,n as e,i as f,c as g,k as h,a as i};
