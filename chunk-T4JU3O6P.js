@@ -1,0 +1,1 @@
+var h=(o,e,n,a,t)=>{let c=u(e,n,a,t),r=[],l=1/(o-1);for(let s=0;s<o;++s)r.push(c(s*l));return r},u=(o,e,n,a)=>{let t=(c,r)=>(o[c]+e[c]*Math.cos(Math.PI*2*(n[c]*r+a[c])))*255;return c=>`rgb(${t(0,c)}, ${t(1,c)}, ${t(2,c)})`};export{h as a};
