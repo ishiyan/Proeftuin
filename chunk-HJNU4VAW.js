@@ -1,0 +1,1 @@
+import"./chunk-6NE7JDAX.js";var o=[{path:"",loadComponent:()=>import("./chunk-C5ZII4LM.js").then(t=>t.NotesComponent),children:[{path:"am",loadChildren:()=>import("./chunk-E4IYF3O7.js").then(t=>t.routes)},{path:"**",redirectTo:"am"}]},{path:"**",redirectTo:""}];export{o as routes};

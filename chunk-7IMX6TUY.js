@@ -1,0 +1,1 @@
+import"./chunk-6NE7JDAX.js";var e=[{path:"s1",loadComponent:()=>import("./chunk-UZDNR2L3.js").then(o=>o.SampleJurikMovingAverage1Component)},{path:"s2",loadComponent:()=>import("./chunk-LDM2RIXI.js").then(o=>o.SampleJurikMovingAverage2Component)},{path:"s3",loadComponent:()=>import("./chunk-34CCNMSM.js").then(o=>o.SampleJurikMovingAverage3Component)}];export{e as routes};

@@ -1,0 +1,1 @@
+import"./chunk-6NE7JDAX.js";var t=[{path:"d1",loadComponent:()=>import("./chunk-Z5S6LJID.js").then(o=>o.DemoComponent)},{path:"d2",loadComponent:()=>import("./chunk-ZTJZOCXL.js").then(o=>o.IndustryClassificationsComponent)},{path:"**",redirectTo:"d1"}];export{t as routes};

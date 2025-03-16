@@ -1,1 +1,0 @@
-import{Qa as C,pa as i,ra as p,sa as l,va as n,wa as s,za as a}from"./chunk-HICUQHPW.js";C();var m=t=>{t<2&&(t=2);let c=[l,p,a,s,i,n],d=1/(t-1),e=[];for(let f of c){let r=[];for(let o=0;o<t;++o)r.push(f(o*d));e.push(r)}return e};export{m as a};
