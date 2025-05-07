@@ -1,0 +1,1 @@
+import"./chunk-6NE7JDAX.js";var o=[{path:"s1",loadComponent:()=>import("./chunk-M7MP7VPX.js").then(e=>e.SampleWeightedMovingAverage1Component)},{path:"s2",loadComponent:()=>import("./chunk-Q3Q77D3V.js").then(e=>e.SampleWeightedMovingAverage2Component)}];export{o as routes};

@@ -1,0 +1,1 @@
+import"./chunk-6NE7JDAX.js";var t=[{path:"s1",loadComponent:()=>import("./chunk-L4OJUWMT.js").then(o=>o.SampleStandardDeviation1Component)},{path:"s2",loadComponent:()=>import("./chunk-XT4YZNZE.js").then(o=>o.SampleStandardDeviation2Component)}];export{t as routes};
