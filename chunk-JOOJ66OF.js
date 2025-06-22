@@ -1,1 +1,0 @@
-import"./chunk-6NE7JDAX.js";var o=[{path:"s1",loadComponent:()=>import("./chunk-S575APGH.js").then(t=>t.SampleDataEntities1Component)},{path:"s2",loadComponent:()=>import("./chunk-PTNJ2RQN.js").then(t=>t.SampleDataEntities2Component)}];export{o as routes};
