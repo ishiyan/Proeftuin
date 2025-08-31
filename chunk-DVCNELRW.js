@@ -1,0 +1,1 @@
+function s(r){return r==null?"":typeof r=="string"?r:`${r}px`}function l(r){return r!=null&&`${r}`!="false"}function m(r,t=/\s+/){let e=[];if(r!=null){let c=Array.isArray(r)?r:`${r}`.split(t);for(let n of c){let o=`${n}`.trim();o&&e.push(o)}}return e}export{s as a,l as b,m as c};

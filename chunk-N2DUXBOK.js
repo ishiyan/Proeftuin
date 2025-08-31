@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var e=[{path:"fm",loadChildren:()=>import("./chunk-P7SJY45H.js").then(t=>t.routes)},{path:"hi",loadChildren:()=>import("./chunk-GRKBWZZ3.js").then(t=>t.routes)},{path:"**",redirectTo:"fm"}];export{e as routes};

@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var p=[{path:"s1",loadComponent:()=>import("./chunk-PHDR7BVG.js").then(o=>o.SampleSparkline1Component)},{path:"s2",loadComponent:()=>import("./chunk-E6DOHTCP.js").then(o=>o.SampleSparkline2Component)},{path:"s3",loadComponent:()=>import("./chunk-KKFCIRGB.js").then(o=>o.SampleSparkline3Component)},{path:"**",redirectTo:"s1"}];export{p as routes};

@@ -1,0 +1,1 @@
+var i=(function(r){return r.LinearPeriod="linearPeriod",r.LinearFrequency="linearFrequency",r.QuadraticPeriod="quadraticPeriod",r.QuadraticFrequency="quadraticFrequency",r.LogarithmicPeriod="logarithmicPeriod",r.LogarithmicFrequency="logarithmicFrequency",r})(i||{});export{i as a};
