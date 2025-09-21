@@ -1,1 +1,0 @@
-import"./chunk-VOSPIT4N.js";var e=[{path:"htce-t",loadChildren:()=>import("./chunk-U4LCOUQY.js").then(t=>t.routes)},{path:"htce",loadChildren:()=>import("./chunk-WFNYGFUJ.js").then(t=>t.routes)},{path:"mama",loadChildren:()=>import("./chunk-FBNYAXY4.js").then(t=>t.routes)},{path:"frama",loadChildren:()=>import("./chunk-UEYZL4T2.js").then(t=>t.routes)}];export{e as routes};

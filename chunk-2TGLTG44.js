@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var t=[{path:"var",loadChildren:()=>import("./chunk-A57PYPGG.js").then(e=>e.routes)},{path:"stdev",loadChildren:()=>import("./chunk-KWFMMLZY.js").then(e=>e.routes)},{path:"**",redirectTo:"var"}];export{t as routes};

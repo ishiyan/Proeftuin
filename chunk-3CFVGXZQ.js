@@ -1,1 +1,0 @@
-import"./chunk-VOSPIT4N.js";var e=[{path:"s1",loadComponent:()=>import("./chunk-DU36D44H.js").then(o=>o.SampleJurikMovingAverage1Component)},{path:"s2",loadComponent:()=>import("./chunk-65PUQYIT.js").then(o=>o.SampleJurikMovingAverage2Component)},{path:"s3",loadComponent:()=>import("./chunk-W3N3C7XE.js").then(o=>o.SampleJurikMovingAverage3Component)}];export{e as routes};

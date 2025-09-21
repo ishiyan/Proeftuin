@@ -1,1 +1,0 @@
-import"./chunk-VOSPIT4N.js";var t=[{path:"s1",loadComponent:()=>import("./chunk-CDOZ3RER.js").then(o=>o.SampleStandardDeviation1Component)},{path:"s2",loadComponent:()=>import("./chunk-NYGLDC7T.js").then(o=>o.SampleStandardDeviation2Component)}];export{t as routes};

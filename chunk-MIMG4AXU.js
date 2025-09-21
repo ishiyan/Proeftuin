@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var r=[{path:"dema",loadChildren:()=>import("./chunk-OCVJNLYM.js").then(e=>e.routes)},{path:"tema",loadChildren:()=>import("./chunk-RYAI2LDD.js").then(e=>e.routes)},{path:"**",redirectTo:"tema"}];export{r as routes};

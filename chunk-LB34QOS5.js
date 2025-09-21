@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var t=[{path:"bar-component-selector",loadComponent:()=>import("./chunk-3Q2IXZBX.js").then(e=>e.Entities01BarComponentSelectorComponent)},{path:"quote-component-selector",loadComponent:()=>import("./chunk-3PEIHZV3.js").then(e=>e.Entities02QuoteComponentSelectorComponent)},{path:"**",redirectTo:"bar-component-selector"}];export{t as routes};

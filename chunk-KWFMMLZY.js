@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var t=[{path:"parameters",loadComponent:()=>import("./chunk-2CJMQB6P.js").then(e=>e.StandardDeviation01ParametersComponent)},{path:"selector",loadComponent:()=>import("./chunk-MNQNYUNJ.js").then(e=>e.StandardDeviation02SelectorComponent)},{path:"**",redirectTo:"selector"}];export{t as routes};

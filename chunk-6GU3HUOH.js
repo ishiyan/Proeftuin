@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var o=[{path:"features",loadComponent:()=>import("./chunk-FZ7MIMDI.js").then(e=>e.ColorDisc01FeaturesComponent)},{path:"picker",loadComponent:()=>import("./chunk-KVUUA3IB.js").then(e=>e.ColorDisc02PickerComponent)},{path:"**",redirectTo:"features"}];export{o as routes};

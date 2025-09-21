@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var r=[{path:"parameters",loadComponent:()=>import("./chunk-BNFUHKKE.js").then(e=>e.HilbertTransformerCycleEstimatorType01ParametersComponent)},{path:"**",redirectTo:"parameters"}];export{r as routes};

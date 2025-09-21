@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var r=[{path:"features",loadComponent:()=>import("./chunk-63GUNU6M.js").then(e=>e.FrequencyResponse01FeaturesComponent)},{path:"**",redirectTo:"features"}];export{r as routes};

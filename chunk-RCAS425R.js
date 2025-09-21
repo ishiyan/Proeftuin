@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var t=[{path:"",loadComponent:()=>import("./chunk-ANG2CKY5.js").then(e=>e.NotesComponent),children:[{path:"am",loadChildren:()=>import("./chunk-4BEHK254.js").then(e=>e.routes)},{path:"**",redirectTo:"am"}]},{path:"**",redirectTo:"am",pathMatch:"full"}];export{t as routes};

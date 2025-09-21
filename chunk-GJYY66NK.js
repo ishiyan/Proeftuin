@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var t=[{path:"study",loadComponent:()=>import("./chunk-S2GPRELM.js").then(e=>e.OhlcvChart01StudyComponent)},{path:"selectors",loadChildren:()=>import("./chunk-SRPRGSUS.js").then(e=>e.routes)},{path:"**",redirectTo:"study"}];export{t as routes};

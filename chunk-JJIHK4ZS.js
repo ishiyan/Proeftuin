@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var n=[{path:"parameters",loadComponent:()=>import("./chunk-HYPZKDDY.js").then(e=>e.T2ExponentialMovingAverage01ParametersComponent)},{path:"selector",loadComponent:()=>import("./chunk-ZQAF2W2S.js").then(e=>e.T2ExponentialMovingAverage02SelectorComponent)},{path:"**",redirectTo:"parameters"}];export{n as routes};

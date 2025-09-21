@@ -1,1 +1,0 @@
-import"./chunk-VOSPIT4N.js";var t=[{path:"color-disc-01",loadComponent:()=>import("./chunk-2Q4NJM5Y.js").then(o=>o.ColorDisc01Component)},{path:"color-disc-picker-01",loadComponent:()=>import("./chunk-NTJFCJUE.js").then(o=>o.ColorDiscPicker01Component)},{path:"**",redirectTo:"color-disc-01"}];export{t as routes};

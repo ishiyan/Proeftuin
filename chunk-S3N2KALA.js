@@ -1,0 +1,1 @@
+import"./chunk-VOSPIT4N.js";var r=[{path:"chirp-features",loadComponent:()=>import("./chunk-SLMSS63Z.js").then(e=>e.Generators01ChirpFeaturesComponent)},{path:"chirp-parameters",loadComponent:()=>import("./chunk-ORAO4IAZ.js").then(e=>e.Generators02ChirpParametersComponent)},{path:"**",redirectTo:"chirp-features"}];export{r as routes};
